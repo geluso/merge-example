@@ -1,10 +1,13 @@
 body {
-  color: yellow;
+  color: gold;
   background-image: url(img/download.jpg);
+  background: : cover;
+
 }
 h1 {
   color: green;
 }
+
 
 .husky{
   background-image: url("http://i.imgur.com/YJfYZJ8.gif");
@@ -14,4 +17,15 @@ h1 {
   z-index: 3;
   width: 2000px;
   height: 2000px;
+}
+
+p {
+  background-color: black;
+}
+
+.container {
+  background-color: white;
+}
+.awesome {
+  background: url("http://i361.photobucket.com/albums/oo54/crackysparkles/sparkles/2m6pimv.gif");
 }
