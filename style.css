@@ -12,7 +12,6 @@ h1 {
 }
 
 
-
 .husky{
   background-image: url("http://i.imgur.com/YJfYZJ8.gif");
   position: absolute;
@@ -23,13 +22,15 @@ h1 {
   height: 2000px;
 }
 
+
 p {
   background-color: white;
 }
 
+
 .container {
   background-color: white;
-  background-image: url(img/download.jpg);
+  background-image: url(img/coffe_chocolate_texture1504.jpg);
   background-size: cover;
 }
 .awesome {
