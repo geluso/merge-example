@@ -1,5 +1,5 @@
 body {
-  color: gold;
+  color: red;
 
   background-image: url(img/download.jpg) no-repeat fixed;
   background: : cover;
@@ -10,6 +10,10 @@ h1 {
   font-size: 100px;
 }
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
 
 .husky{
   background-image: url("http://i.imgur.com/YJfYZJ8.gif");
@@ -21,10 +25,12 @@ h1 {
   height: 2000px;
 }
 
+>>>>>>> d5c3b1dfc3d451e9f62f26a538d43161cb477b3b
 p {
   background-color: white;
 }
 
+>>>>>>> d6080617e312daef4ca22dd38537d81a3581d21e
 .container {
   background-color: white;
   background-image: url(img/download.jpg);
@@ -32,6 +38,13 @@ p {
 }
 .awesome {
   background: url("http://i361.photobucket.com/albums/oo54/crackysparkles/sparkles/2m6pimv.gif");
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> d6080617e312daef4ca22dd38537d81a3581d21e
+=======
+>>>>>>> d5c3b1dfc3d451e9f62f26a538d43161cb477b3b
 }
 
 #stupid-box {
