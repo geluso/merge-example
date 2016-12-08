@@ -6,8 +6,8 @@ body {
 
 }
 h1 {
-  color: red;
   color: green;
+  color: rgb(238, 20, 158);
   font-size: 150px;
 }
 
