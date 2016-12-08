@@ -1,7 +1,8 @@
 body {
   color: gold;
-  background-image: url(img/download.jpg);
+  background-image: url(img/download.jpg) no-repeat fixed;
   background: : cover;
+
 
 }
 h1 {
@@ -9,9 +10,23 @@ h1 {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+
+.husky{
+  background-image: url("http://i.imgur.com/YJfYZJ8.gif");
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  width: 2000px;
+  height: 2000px;
+}
+
+>>>>>>> d5c3b1dfc3d451e9f62f26a538d43161cb477b3b
 p {
-  background-color: black;
+  background-color: white;
 }
 
 >>>>>>> d6080617e312daef4ca22dd38537d81a3581d21e
@@ -21,7 +36,10 @@ p {
 .awesome {
   background: url("http://i361.photobucket.com/albums/oo54/crackysparkles/sparkles/2m6pimv.gif");
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 >>>>>>> d6080617e312daef4ca22dd38537d81a3581d21e
+=======
+>>>>>>> d5c3b1dfc3d451e9f62f26a538d43161cb477b3b
 }
