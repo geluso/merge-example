@@ -2,3 +2,6 @@ body {
   color: yellow;
   background-image: url(img/download.jpg);
 }
+h1 {
+  color: green;
+}
