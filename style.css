@@ -8,6 +8,17 @@ h1 {
   color: green;
 }
 
+
+.husky{
+  background-image: url("http://i.imgur.com/YJfYZJ8.gif");
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 3;
+  width: 2000px;
+  height: 2000px;
+}
+
 p {
   background-color: black;
 }
@@ -17,5 +28,4 @@ p {
 }
 .awesome {
   background: url("http://i361.photobucket.com/albums/oo54/crackysparkles/sparkles/2m6pimv.gif");
-
 }
