@@ -1,12 +1,13 @@
 body {
   color: gold;
+
   background-image: url(img/download.jpg) no-repeat fixed;
   background: : cover;
-
 
 }
 h1 {
   color: green;
+  font-size: 100px;
 }
 
 
@@ -21,11 +22,13 @@ h1 {
 }
 
 p {
-  background-color: black;
+  background-color: white;
 }
 
 .container {
   background-color: white;
+  background-image: url(img/download.jpg);
+  background-size: cover;
 }
 .awesome {
   background: url("http://i361.photobucket.com/albums/oo54/crackysparkles/sparkles/2m6pimv.gif");
