@@ -1,11 +1,14 @@
 body {
-  color: yellow;
+  color: gold;
   background-image: url(img/download.jpg);
 }
 h1 {
   color: green;
 }
 
+.container {
+  background-color: white;
+}
 .awesome {
   background: url("http://i361.photobucket.com/albums/oo54/crackysparkles/sparkles/2m6pimv.gif");
 }
