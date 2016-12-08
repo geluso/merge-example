@@ -1,6 +1,8 @@
 body {
   color: gold;
   background-image: url(img/download.jpg);
+  background: : cover;
+
 }
 h1 {
   color: green;
@@ -10,7 +12,7 @@ h1 {
 =======
 p {
   background-color: black;
-
+}
 
 >>>>>>> d6080617e312daef4ca22dd38537d81a3581d21e
 .container {
