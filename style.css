@@ -1,14 +1,25 @@
 body {
-  color: yellow;
+  color: gold;
   background-image: url(img/download.jpg);
 }
 h1 {
   color: green;
 }
 
+<<<<<<< HEAD
+=======
+p {
+  background-color: black;
+
+
+>>>>>>> d6080617e312daef4ca22dd38537d81a3581d21e
 .container {
   background-color: white;
 }
 .awesome {
   background: url("http://i361.photobucket.com/albums/oo54/crackysparkles/sparkles/2m6pimv.gif");
+<<<<<<< HEAD
+=======
+
+>>>>>>> d6080617e312daef4ca22dd38537d81a3581d21e
 }
