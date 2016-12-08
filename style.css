@@ -15,7 +15,7 @@ h1 {
   position: absolute;
   top: 0;
   left: 0;
-  z-index: 3;
+  z-index: -1;
   width: 2000px;
   height: 2000px;
 }
