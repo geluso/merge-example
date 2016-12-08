@@ -1,6 +1,6 @@
 body {
   color: gold;
-  background-image: url(img/download.jpg);
+  background-image: url(img/download.jpg) no-repeat fixed;
 }
 h1 {
   color: green;
