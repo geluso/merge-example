@@ -1,8 +1,8 @@
 body {
   color: gold;
+
   background-image: url(img/download.jpg) no-repeat fixed;
   background: : cover;
-
 
 }
 h1 {
@@ -26,6 +26,8 @@ p {
 
 .container {
   background-color: white;
+  background-image: url(img/download.jpg);
+  background-size: cover;
 }
 .awesome {
   background: url("http://i361.photobucket.com/albums/oo54/crackysparkles/sparkles/2m6pimv.gif");
